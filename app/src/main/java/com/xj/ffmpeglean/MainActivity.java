@@ -21,7 +21,7 @@ public class MainActivity extends AppCompatActivity {
         tv.setText(stringFromJNI());
         //只是在这里修改了一点类容
 
-
+//重新的使用查看一下能不能用
 
 
     }
